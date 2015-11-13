@@ -15,6 +15,6 @@ Flo Motlik: @flomotlik
 * If you're on the road as often as the rest of us are, you'll want to join the #on-the-road-again channel. You can figure out who's going to be where when, what the hot conferences are, and when you'll have a chance to meet your new internet best friend IRL.
 * Lastly, make yourself at home! Check out the various channels, ask questions, share ideas, and meet new friends.
 * Suggestions on how to make the group better? Visit us over at #i-hate-it-here.
-* Know other people that you think might be a good fit for the group? DM @dave @flomotlik or @mary_grace with their info and we'll send them an invite.
+* Know other people that you think might be a good fit for the group? Have them [request an invite](http://evangelistcollective.github.io/).
 
 See you around!
