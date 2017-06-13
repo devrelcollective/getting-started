@@ -8,8 +8,8 @@ Towards this end, certain behaviors and practices will not be tolerated.
 * Be respectful.
 * We're here to help: 
 - Mary Thengvall: @mary_grace
-- Dave Josephson: @dave
-- Flo Motlik: @flomotlik
+- Meg Hartley: @meg
+- Laura Watkins: @laurajane
 * Abusive behavior is never tolerated.
 * Data published to WADE is hosted at the discretion of the administrators, and may be removed.
 * Violations of this code may result in swift and permanent expulsion from the WADE community.
