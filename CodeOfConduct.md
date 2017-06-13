@@ -47,7 +47,7 @@ Content must not be malware. For example, content (code, video, pictures, words,
 Content name, description, and other visible metadata must not include abusive, inappropriate, or harassing content.
 
 #Reporting Violations of this Code of Conduct
-If you believe someone is harassing you or has otherwise violated this Code of Conduct, please contact us at reach out to Mary Thengvall (@mary_grace), Dave Josephsen (@dave), or Flo Motlik (@flomotlik) and send us an abuse report. If this is the initial report of a problem, please include as much detail as possible. It is easiest for us to address issues when we have more context.
+If you believe someone is harassing you or has otherwise violated this Code of Conduct, please contact us at reach out to Mary Thengvall (@mary_grace), Meg Hartley (@meg), or Laura Watkins (@laurajane) and send us an abuse report. If this is the initial report of a problem, please include as much detail as possible. It is easiest for us to address issues when we have more context.
 
 #Consequences
 All content published to WADE, including user account credentials, is hosted at the sole discretion of the WADE administrators.
@@ -61,15 +61,15 @@ If a community member engages in unacceptable behavior, the WADE administrators 
 #Addressing Grievances
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the WADE team:
 - Mary Thengvall: @mary_grace
-- Dave Josephson: @dave
-- Flo Motlik: @flomotlik
+- Meg Hartley: @meg
+- Laura Watkins: @laurajane
 
 We will do our best to ensure that your grievance is handled appropriately.
 
 In general, we will choose the course of action that we judge as being most in the interest of fostering a safe and friendly community.
 
 #Contact Info
-Please contact Mary Thengvall (@mary_grace), Dave Josephsen (@dave), or Flo Motlik (@flomotlik) if you need to report a problem or address a grievance related to an abuse report.
+Please contact Mary Thengvall (@mary_grace), Meg Hartley (@meg), or Laura Watkins (@laurajane) if you need to report a problem or address a grievance related to an abuse report.
 
 You are also encouraged to contact us if you are curious about something that might be "on the line" between appropriate and inappropriate content. We are happy to provide guidance to help you be a successful part of our community.
 
