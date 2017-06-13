@@ -20,7 +20,7 @@ We expect all members of the WADE community, including administrators, users, fa
 This policy covers the usage of the WADE Slack community, as well as the WADE website, and any WADE-related events. 
 This Code of Conduct is in addition to, and does not in any way nullify or invalidate, any other terms or conditions related to use of WADE.
 
-The definitions of various subjective terms such as "discriminatory", "hateful", or "confusing" will be decided at the sole discretion of the WADE administrators: Dave Josephson, Flo Motlik, and Mary Thengvall.
+The definitions of various subjective terms such as "discriminatory", "hateful", or "confusing" will be decided at the sole discretion of the WADE administrators: Meg Hartley, Laura Watkins, and Mary Thengvall.
 
 #Friendly, Harassment-Free Space
 We are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender identity, sexual orientation, disability, ethnicity, religion, age, physical appearance, body size, race, or similar personal characteristics.
