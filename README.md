@@ -37,6 +37,10 @@ We have a team of awesome people around to keep EC running smoothly. If you ever
 * Suggestions on how to make the group better? Visit us over at #i-hate-it-here.
 * Know other people that you think might be a good fit for the group? Have them [request an invite](http://evangelistcollective.github.io/#about).
 
+### Introduce yourself!
+
+Open a PR on the file `introductions.md` and add your contact information (as much as you feel comfortable with). This helps everyone get to know each other better!
+
 ## Big Picture
 
 Answering the question of "what would you say you do here?"
