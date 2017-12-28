@@ -6,6 +6,7 @@ Evangelist Collective exists to facilitate sharing information, resources and en
    * [Interested in Joining](#interested-in-joining)
    * [New Members](#new-members)
       * [We're here to help](#were-here-to-help)
+      * [Intorduce yourself!](#introduce-yourself)
    * [Big Picture](#big-picture)
       * [How to Use This Repo](#how-to-use-this-repo)
       * [How Can I Help?](#how-can-i-help)
