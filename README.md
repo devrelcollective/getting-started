@@ -40,7 +40,7 @@ We have a team of awesome people around to keep EC running smoothly. If you ever
 
 ### Introduce yourself!
 
-Open a PR on the file `introductions.md` and add your contact information (as much as you feel comfortable with). This helps everyone get to know each other better!
+Open a PR on the file [`introductions.md`](introductions.md) and add your contact information (as much as you feel comfortable with). This helps everyone get to know each other better!
 
 ## Big Picture
 
