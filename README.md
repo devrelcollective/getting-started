@@ -6,6 +6,7 @@ Evangelist Collective exists to facilitate sharing information, resources and en
    * [Interested in Joining](#interested-in-joining)
    * [New Members](#new-members)
       * [We're here to help](#were-here-to-help)
+      * [Introduce yourself!](#introduce-yourself)
    * [Big Picture](#big-picture)
       * [How to Use This Repo](#how-to-use-this-repo)
       * [How Can I Help?](#how-can-i-help)
@@ -36,6 +37,10 @@ We have a team of awesome people around to keep EC running smoothly. If you ever
 * Lastly, make yourself at home! Check out the various channels, ask questions, share ideas, and meet new friends.
 * Suggestions on how to make the group better? Visit us over at #i-hate-it-here.
 * Know other people that you think might be a good fit for the group? Have them [request an invite](http://evangelistcollective.github.io/#about).
+
+### Introduce yourself!
+
+Open a PR on the file [`introductions.md`](introductions.md) and add your contact information (as much as you feel comfortable with). This helps everyone get to know each other better!
 
 ## Big Picture
 
