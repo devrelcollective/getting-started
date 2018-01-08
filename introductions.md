@@ -3,3 +3,4 @@
 | Matt Stratton (`mattstratton`) | [PagerDuty](https://www.pagerduty.com) | DevOps Evangelist | [Blog](https://medium.com/@mattstratton) | [@mattstratton](https://twitter.com/mattstratton) | [mattstratton](https://www.github.com/mattstratton) |
 | Josh Dzielak (`dzello`) | [Algolia](https://algolia.com) | Developer Relations Lead | [Blog](https://dzello.com) | [@dzello](https://twitter.com/dzello) | [dzello](https://www.github.com/dzello) |
 | Zan Markan (`zmarkan`) | [Pusher](https://pusher.com) | Developer Evangelist | [Blog](https://medium.com/devrel-life) | [@zmarkan](https://twitter.com/zmarkan) | [zmarkan](https://github.com/zmarkan) |
+| Andy Piper (`andypiper`) | [Twitter](https://twitter.com) | Global Lead, Developer Platform | [Blog](https://andypiper.co.uk) | [@andypiper](https://twitter.com/andypiper) | [andypiper](https://github.com/andypiper) |
