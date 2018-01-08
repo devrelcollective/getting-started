@@ -6,3 +6,4 @@
 | Jeremy Meiss (`jeremymeiss`) | [Auth0](https://Auth0.com) | Developer Community Lead | [Web](https://jmeiss.me), [Blog](https://medium.com/@jeremymeiss) | [@IAmJerdog](https://twitter.com/IAmJerdog) | [jerdog](https://github.com/jerdog) |
 | Jessica West (`jessica`) | [Algolia](https://algolia.com) | Developer Advocate | [Blog](http://jesswe.st/) | [@jessicaewest](https://twitter.com/jessicaewest) | [jessicag](https://github.com/jessicag) |
 | Don Goodman-Wilson (`don`) | Looking! | Developer Relations | [Blog](https://medium.com/DEGoodmanWilson) | [@DEGoodmanWilson](https://twitter.com/DEGoodmanWilson) | [DEGoodmanWilson](https://github.com/DEGoodmanWilson) |
+| Jason Harris (`jasonharris`) | [Panoply](https://panoply.io) | Evangelist | [Blog](https://techcraver.com) | [@harrisja](https://twitter.com/harrisja) | [techcraver](https://www.github.com/techcraver) |
