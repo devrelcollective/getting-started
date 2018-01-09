@@ -8,3 +8,4 @@
 | Jessica West (`jessica`) | [Algolia](https://algolia.com) | Developer Advocate | [Blog](http://jesswe.st/) | [@jessicaewest](https://twitter.com/jessicaewest) | [jessicag](https://github.com/jessicag) |
 | Don Goodman-Wilson (`don`) | Looking! | Developer Relations | [Blog](https://medium.com/DEGoodmanWilson) | [@DEGoodmanWilson](https://twitter.com/DEGoodmanWilson) | [DEGoodmanWilson](https://github.com/DEGoodmanWilson) |
 | Jason Harris (`jasonharris`) | [Panoply](https://panoply.io) | Evangelist | [Blog](https://techcraver.com) | [@harrisja](https://twitter.com/harrisja) | [techcraver](https://www.github.com/techcraver) |
+| Matt Jarvis (`mattj`) | [Mesosphere](https://dcos.io) | Senior Director, Community and Evangelism | [Blog](https://mattjarvis.org.uk) | [@mattj_io](https://twitter.com/mattj_io) | [mattj-io](https://www.github.com/mattj-io) |
