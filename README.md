@@ -1,6 +1,6 @@
 # Getting Started
 
-Evangelist Collective exists to facilitate sharing information, resources and encouragement among the Developer Evangelist, Advocate and Community Manager community. If you share a passion for the Developer community and you would like to get to know a great group of friendly peers, [reach out about joining](http://goo.gl/forms/1d5PK0TCAI) the collective.
+The Evangelist Collective exists to facilitate sharing information, resources, and encouragement among the professional Developer Evangelist, Advocate and Technical Community Manager community. If you share a passion for nurturing developer communities and would like to get to know a great group of friendly peers, [reach out about joining](http://goo.gl/forms/1d5PK0TCAI) the collective.
 
 * [Getting Started](#getting-started)
    * [Interested in Joining](#interested-in-joining)
