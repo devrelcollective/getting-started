@@ -7,8 +7,9 @@ Towards this end, certain behaviors and practices will not be tolerated.
 # tl;dr
 * Be respectful
 * We're here to help:
-- Mary Thengvall: @mary_grace
-- Matt Broberg: @mbbroberg
+  - Mary Thengvall: @mary_grace
+  - Matt Broberg: @mbbroberg
+  - Dave Josephsen: @dave
 * Abusive behavior is never tolerated
 * Data published to DevRel Collective is hosted at the discretion of the administrators, and may be removed
 * Violations of this code may result in swift and permanent expulsion from the DevRel Collective community
@@ -19,7 +20,7 @@ We expect all members of the DevRel Collective community, including administrato
 This policy covers the usage of the DevRel Collective Slack community, as well as the DevRel Collective website, and any DevRel Collective-related events.
 This Code of Conduct is in addition to, and does not in any way nullify or invalidate, any other terms or conditions related to use of DevRel Collective.
 
-The definitions of various subjective terms such as "discriminatory", "hateful", or "confusing" will be decided at the sole discretion of the DevRel Collective administrators: Meg Hartley, Laura Watkins, and Mary Thengvall.
+The definitions of various subjective terms such as "discriminatory", "hateful", or "confusing" will be decided at the sole discretion of the DevRel Collective administrators: Mary Thengvall, Matt Broberg and Dave Josephsen.
 
 # Friendly, Harassment-Free Space
 We are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender identity, sexual orientation, disability, ethnicity, religion, age, physical appearance, body size, race, or similar personal characteristics.
@@ -46,7 +47,7 @@ Content must not be malware. For example, content (code, video, pictures, words,
 Content name, description, and other visible metadata must not include abusive, inappropriate, or harassing content.
 
 # Reporting Violations of this Code of Conduct
-If you believe someone is harassing you or has otherwise violated this Code of Conduct, please contact us at reach out to Mary Thengvall (@mary_grace), Meg Hartley (@meg), or Laura Watkins (@laurajane) and send us an abuse report. If this is the initial report of a problem, please include as much detail as possible. It is easiest for us to address issues when we have more context.
+If you believe someone is harassing you or has otherwise violated this Code of Conduct, please contact us at reach out to Mary Thengvall (@mary_grace), Matt Broberg (@mbbroberg), or Dave Josephsen (@dave) and send us an abuse report. If this is the initial report of a problem, please include as much detail as possible. It is easiest for us to address issues when we have more context.
 
 # Consequences
 All content published to DevRel Collective, including user account credentials, is hosted at the sole discretion of the DevRel Collective administrators.
@@ -61,13 +62,14 @@ If a community member engages in unacceptable behavior, the DevRel Collective ad
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the DevRel Collective team:
 - Mary Thengvall: @mary_grace
 - Matt Broberg: @mbbroberg
+- Dave Josephsen: @dave
 
 We will do our best to ensure that your grievance is handled appropriately.
 
 In general, we will choose the course of action that we judge as being most in the interest of fostering a safe and friendly community.
 
 # Contact Info
-Please contact Mary Thengvall (@mary_grace), Matt Brober (@mbbroberg), or Dave Josephsen (@dave) if you need to report a problem or address a grievance related to an abuse report.
+Please contact Mary Thengvall (@mary_grace), Matt Broberg (@mbbroberg), or Dave Josephsen (@dave) if you need to report a problem or address a grievance related to an abuse report.
 
 You are also encouraged to contact us if you are curious about something that might be "on the line" between appropriate and inappropriate content. We are happy to provide guidance to help you be a successful part of our community.
 
