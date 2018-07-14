@@ -1,4 +1,4 @@
-DevRel Collective (formally known as Evangelist Collective) exists to facilitate sharing information, resources and encouragement among the Developer Relations community.
+DevRel Collective (formally known as Evangelist Collective) exists to facilitate sharing information, resources, and encouragement among the Developer Relations community.
 
 We believe our mission is best served in an environment that is friendly, safe, and accepting; free from intimidation or harassment.
 
