@@ -1,26 +1,25 @@
-We Are Developer Evangelists- and So Can You! (WADE) exists to facilitate sharing information, resources and encouragement among the Developer Evangelist community.
+DevRel Collective (formally known as Evangelist Collective) exists to facilitate sharing information, resources and encouragement among the Developer Relations community.
 
 We believe our mission is best served in an environment that is friendly, safe, and accepting; free from intimidation or harassment.
 
 Towards this end, certain behaviors and practices will not be tolerated.
 
 # tl;dr
-* Be respectful.
-* We're here to help: 
+* Be respectful
+* We're here to help:
 - Mary Thengvall: @mary_grace
-- Meg Hartley: @meg
-- Laura Watkins: @laurajane
-* Abusive behavior is never tolerated.
-* Data published to WADE is hosted at the discretion of the administrators, and may be removed.
-* Violations of this code may result in swift and permanent expulsion from the WADE community.
+- Matt Broberg: @mbbroberg
+* Abusive behavior is never tolerated
+* Data published to DevRel Collective is hosted at the discretion of the administrators, and may be removed
+* Violations of this code may result in swift and permanent expulsion from the DevRel Collective community
 
 # Scope
-We expect all members of the WADE community, including administrators, users, facilitators, and vendors to abide by this Code of Conduct at all times in all WADE community venues, online and in person, and in one-on-one communications pertaining to WADE affairs.
+We expect all members of the DevRel Collective community, including administrators, users, facilitators, and vendors to abide by this Code of Conduct at all times in all DevRel Collective community venues, online and in person, and in one-on-one communications pertaining to DevRel Collective affairs.
 
-This policy covers the usage of the WADE Slack community, as well as the WADE website, and any WADE-related events. 
-This Code of Conduct is in addition to, and does not in any way nullify or invalidate, any other terms or conditions related to use of WADE.
+This policy covers the usage of the DevRel Collective Slack community, as well as the DevRel Collective website, and any DevRel Collective-related events.
+This Code of Conduct is in addition to, and does not in any way nullify or invalidate, any other terms or conditions related to use of DevRel Collective.
 
-The definitions of various subjective terms such as "discriminatory", "hateful", or "confusing" will be decided at the sole discretion of the WADE administrators: Meg Hartley, Laura Watkins, and Mary Thengvall.
+The definitions of various subjective terms such as "discriminatory", "hateful", or "confusing" will be decided at the sole discretion of the DevRel Collective administrators: Meg Hartley, Laura Watkins, and Mary Thengvall.
 
 # Friendly, Harassment-Free Space
 We are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender identity, sexual orientation, disability, ethnicity, religion, age, physical appearance, body size, race, or similar personal characteristics.
@@ -29,18 +28,18 @@ We ask that you please respect that people have differences of opinion regarding
 
 Any spamming, trolling, flaming, baiting, or other attention-stealing behaviour is not welcome, and will not be tolerated.
 
-Harassing other users of WADE is never tolerated, whether via public or private media.
+Harassing other users of DevRel Collective is never tolerated, whether via public or private media.
 
 Avoid using offensive or harassing package names, nicknames, or other identifiers that might detract from a friendly, safe, and welcoming environment for all.
 
 Harassment includes, but is not limited to: harmful or prejudicial verbal or written comments related to gender identity, sexual orientation, disability, ethnicity, religion, age, physical appearance, body size, race, or similar personal characteristics; inappropriate use of nudity, sexual images, and/or sexually explicit language in public spaces; threats of physical or non-physical harm; deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention.
 
 # Acceptable Content
-The WADE administrators reserve the right to make judgement calls about what is and isn't appropriate in published content. These are guidelines to help you be successful in our community.
+The DevRel Collective administrators reserve the right to make judgement calls about what is and isn't appropriate in published content. These are guidelines to help you be successful in our community.
 
-Content must contain something applicable to the previously stated goals of the WADE community. "Spamming", that is, publishing any form of content that is not applicable, is not allowed.
+Content must contain something applicable to the previously stated goals of the DevRel Collective community. "Spamming", that is, publishing any form of content that is not applicable, is not allowed.
 
-Content must not contain illegal or infringing content. You should only publish content to WADE if you have the right to do so. This includes complying with all software license agreements or other intellectual property restrictions. For example, redistributing an MIT-licensed module with the copyright notice removed, would not be allowed. You will be responsible for any violation of laws or others’ intellectual property rights.
+Content must not contain illegal or infringing content. You should only publish content to DevRel Collective if you have the right to do so. This includes complying with all software license agreements or other intellectual property restrictions. For example, redistributing an MIT-licensed module with the copyright notice removed, would not be allowed. You will be responsible for any violation of laws or others’ intellectual property rights.
 
 Content must not be malware. For example, content (code, video, pictures, words, etc.) which is designed to maliciously exploit or damage computer systems, is not allowed.
 
@@ -50,26 +49,25 @@ Content name, description, and other visible metadata must not include abusive, 
 If you believe someone is harassing you or has otherwise violated this Code of Conduct, please contact us at reach out to Mary Thengvall (@mary_grace), Meg Hartley (@meg), or Laura Watkins (@laurajane) and send us an abuse report. If this is the initial report of a problem, please include as much detail as possible. It is easiest for us to address issues when we have more context.
 
 # Consequences
-All content published to WADE, including user account credentials, is hosted at the sole discretion of the WADE administrators.
+All content published to DevRel Collective, including user account credentials, is hosted at the sole discretion of the DevRel Collective administrators.
 
 Unacceptable behavior from any community member, including sponsors, employees, customers, or others with decision-making authority, will not be tolerated.
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If a community member engages in unacceptable behavior, the WADE administrators may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event or service).
+If a community member engages in unacceptable behavior, the DevRel Collective administrators may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event or service).
 
 # Addressing Grievances
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the WADE team:
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the DevRel Collective team:
 - Mary Thengvall: @mary_grace
-- Meg Hartley: @meg
-- Laura Watkins: @laurajane
+- Matt Broberg: @mbbroberg
 
 We will do our best to ensure that your grievance is handled appropriately.
 
 In general, we will choose the course of action that we judge as being most in the interest of fostering a safe and friendly community.
 
 # Contact Info
-Please contact Mary Thengvall (@mary_grace), Meg Hartley (@meg), or Laura Watkins (@laurajane) if you need to report a problem or address a grievance related to an abuse report.
+Please contact Mary Thengvall (@mary_grace), Matt Brober (@mbbroberg), or Dave Josephsen (@dave) if you need to report a problem or address a grievance related to an abuse report.
 
 You are also encouraged to contact us if you are curious about something that might be "on the line" between appropriate and inappropriate content. We are happy to provide guidance to help you be a successful part of our community.
 
