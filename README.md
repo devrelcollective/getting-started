@@ -1,6 +1,6 @@
 # Getting Started
 
-The Evangelist Collective exists to facilitate sharing information, resources, and encouragement among the professional Developer Evangelist, Advocate and Technical Community Manager community. If you share a passion for nurturing developer communities and would like to get to know a great group of friendly peers, [reach out about joining](http://goo.gl/forms/1d5PK0TCAI) the collective.
+The DevRel Collective (formerly Evangelist Collective aka We Are Developer Evangelists aka WADE) exists to facilitate sharing information, resources, and encouragement among the professional Developer Advocates, Evangelists, and Technical Community Manager community. If you share a passion for nurturing developer communities and would like to get to know a great group of friendly peers, [reach out about joining](http://goo.gl/forms/1d5PK0TCAI) the collective.
 
 * [Getting Started](#getting-started)
    * [Interested in Joining](#interested-in-joining)
@@ -24,36 +24,36 @@ Welcome! First and foremost, check out our [Code of Conduct](CodeOfConduct.md). 
 
 * Be respectful
 * Abusive behavior is never tolerated
-* Data published to Evangelist Collective is hosted at the discretion of the administrators, and may be removed
+* Data published to DevRel Collective is hosted at the discretion of the administrators, and may be removed
 * Violations of this code may result in swift and permanent expulsion from the community
 
 ### We're here to help
 
-We have a team of awesome people around to keep EC running smoothly. If you ever need help or get stuck, ping Mary Thengvall: @mary_grace. A few more tips to get you started:
+We have a team of awesome people around to keep DevRel Collective running smoothly. If you ever need help or get stuck, ping Mary Thengvall: @mary_grace. A few more tips to get you started:
 
 * Say hi in the `#welcome` channel to meet everyone or hop into a conversation in `#general`. Feel free to introduce yourself and say hi to those people you may have met elsewhere, and meet those that you haven't yet had the pleasure of getting to know. Don't worry about not being "technical enough" or feel like you have to know everyone to fit in. We're a very welcoming group, and we've got everyone from event managers to CTOs in here, so we're sure you'll find someone to talk to!
 * Find a city room to connect with those folks who are in your local area, or in a city you're traveling to. Post your upcoming events, see who's around, and meet up in person to get to know the community better.
 * If you're on the road as often as the rest of us are, you'll want to join the `#on-the-road-again` channel. You can figure out who's going to be where when, what the hot conferences are, and when you'll have a chance to meet your new internet best friend IRL.
 * Lastly, make yourself at home! Check out the various channels, ask questions, share ideas, and meet new friends.
-* Suggestions on how to make the group better? Visit us over at #i-hate-it-here.
+* Suggestions on how to make the group better? Visit us over at `#moderators`.
 * Know other people that you think might be a good fit for the group? Have them [request an invite](http://evangelistcollective.github.io/#about).
 
 ### Introduce yourself!
 
 Open a PR on the file [`introductions.md`](introductions.md) and add your contact information (as much as you feel comfortable with). This helps everyone get to know each other better!
 
-## Big Picture
+### Big Picture
 
-Answering the question of "what would you say you do here?"
+The purpose of DevRel Collective is to answer the question of "what would you say you do here?"
 
 ### How to Use This Repo
 
-This is the Evangelist Collective's place to store documentation and track ideas we want to pursue. Please open issues or pull requests if you want to participate in either.
+This is the DevRel Collective's place to store documentation and track ideas we want to pursue. Please open issues or pull requests if you want to participate in either.
 
 ### How Can I Help?
 
-Aww shucks, thanks for asking. We're just getting started with outside contribution, so we're not quite ready for it yet. In the meantime, it'd be dope if you could open an issue saying you'd be game to help and how how (documentation, coding, strategy, marketing).
+Aww shucks, thanks for asking. Check out [our get involved documentation](get-involved.md). It's always nice to see you open an issue, or PR!, saying you'd be game to help and how (documentation, coding, strategy, marketing).
 
 ### Background
 
-Our collective is an inclusive thought experiment started by Dave Josephsen and now supported by a group of volunteers lead by Mary Thengvall.
+Our collective is an inclusive thought experiment started by Dave Josephsen and now supported by a group of volunteers lead by Mary Thengvall. We love all our previous names equally.
