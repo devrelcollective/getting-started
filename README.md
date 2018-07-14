@@ -24,7 +24,7 @@ Welcome! First and foremost, check out our [Code of Conduct](CodeOfConduct.md). 
 
 * Be respectful
 * Abusive behavior is never tolerated
-* Data published to DevREl Collective is hosted at the discretion of the administrators, and may be removed
+* Data published to DevRel Collective is hosted at the discretion of the administrators, and may be removed
 * Violations of this code may result in swift and permanent expulsion from the community
 
 ### We're here to help
