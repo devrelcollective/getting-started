@@ -9,9 +9,11 @@ Towards this end, certain behaviors and practices will not be tolerated.
 * We're here to help:
   - Mary Thengvall: @mary_grace
   - Matt Broberg: @mbbroberg
-  - Dave Josephsen: @dave
-  - Swarna Podila: @swarna
   - Jeremy Meiss: @jeremymeiss
+  - Karissa Peth: @karissa
+  - Quintessence Anx: @quintessence
+  - Dave Josephsen: @dave
+  
 * Abusive behavior is never tolerated
 * Data published to DevRel Collective is hosted at the discretion of the administrators, and may be removed
 * Violations of this code may result in swift and permanent expulsion from the DevRel Collective community
@@ -62,18 +64,20 @@ If a community member engages in unacceptable behavior, the DevRel Collective ad
 
 # Addressing Grievances
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the DevRel Collective team:
-- Mary Thengvall: @mary_grace
-- Matt Broberg: @mbbroberg
-- Dave Josephsen: @dave
-- Swarna Podila: @swarna
-- Jeremy Meiss: @jeremymeiss
+* We're here to help:
+  - Mary Thengvall: @mary_grace
+  - Matt Broberg: @mbbroberg
+  - Jeremy Meiss: @jeremymeiss
+  - Karissa Peth: @karissa
+  - Quintessence Anx: @quintessence
+  - Dave Josephsen: @dave
 
 We will do our best to ensure that your grievance is handled appropriately.
 
 In general, we will choose the course of action that we judge as being most in the interest of fostering a safe and friendly community.
 
 # Contact Info
-Please contact Mary Thengvall (@mary_grace), Matt Broberg (@mbbroberg), Dave Josephsen (@dave), Swarna Podila (@swarna), or Jeremy Meiss (@jeremymeiss) if you need to report a problem or address a grievance related to an abuse report.
+Please contact Mary Thengvall (@mary_grace), Matt Broberg (@mbbroberg), Dave Josephsen (@dave), Karissa Peth (@karissa), Quintessence Anx (@quintessence), or Jeremy Meiss (@jeremymeiss) if you need to report a problem or address a grievance related to an abuse report.
 
 You are also encouraged to contact us if you are curious about something that might be "on the line" between appropriate and inappropriate content. We are happy to provide guidance to help you be a successful part of our community.
 
