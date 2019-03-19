@@ -15,5 +15,5 @@ Sounds a little too intense for your liking? No worries at all! Join the #help-n
 
 Questions? Feel free to reach out directly to Mary Thengvall (@mary_grace) on Slack.
 
-Best,
+Best,  
 Mary, for all of the Benevolent Dictators
