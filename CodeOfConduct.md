@@ -8,7 +8,6 @@ Towards this end, certain behaviors and practices will not be tolerated.
 * Be respectful
 * We're here to help:
   - Mary Thengvall: @mary_grace
-  - Matt Broberg: @mbbroberg
   - Jeremy Meiss: @jeremymeiss
   - Karissa Peth: @karissa
   - Quintessence Anx: @quintessence
@@ -22,14 +21,17 @@ Towards this end, certain behaviors and practices will not be tolerated.
 We expect all members of the DevRel Collective community, including administrators, users, facilitators, and vendors to abide by this Code of Conduct at all times in all DevRel Collective community venues, online and in person, and in one-on-one communications pertaining to DevRel Collective affairs.
 
 This policy covers the usage of the DevRel Collective Slack community, as well as the DevRel Collective website, and any DevRel Collective-related events.
+
 This Code of Conduct is in addition to, and does not in any way nullify or invalidate, any other terms or conditions related to use of DevRel Collective.
 
-The definitions of various subjective terms such as "discriminatory", "hateful", or "confusing" will be decided at the sole discretion of the DevRel Collective administrators: Mary Thengvall, Matt Broberg and Dave Josephsen.
+The definitions of various subjective terms such as "discriminatory", "hateful", or "confusing" will be decided at the sole discretion of the DevRel Collective administrators.
 
 # Friendly, Harassment-Free Space
 We are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender identity, sexual orientation, disability, ethnicity, religion, age, physical appearance, body size, race, or similar personal characteristics.
 
 We ask that you please respect that people have differences of opinion regarding technical choices, and acknowledge that every design or implementation choice carries a trade-off and numerous costs. There is seldom a single right answer. A difference of technology preferences is never a license to be rude.
+
+Everything shared in the DevRel Collective is under FrieNDA. All opinions, concerns, feelings, rants, and viewpoints, whether about people, events, companies, or the tech industry, shared in this Slack shouldn't be shared without the explicit (and enthusiastic) consent of the person who shared it. This includes sharing information without attributing it to the specific person who said it (e.g. "I heard in a Slack team I'm a part of that... "). In short, if the information is public knowledge (i.e. can be cited by a readily available online source), it's fine to share, but if you're quoting an individual's opinion, you must receive their permission first. 
 
 Any spamming, trolling, flaming, baiting, or other attention-stealing behaviour is not welcome, and will not be tolerated.
 
