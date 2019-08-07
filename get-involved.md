@@ -7,7 +7,7 @@ As many of us know, like most things we do as DevRel professionals, running this
 * Be able to take the initiative to move projects forward without prompting. We have open issues on Github as well as a #help-needed channel in the group. You are expected to pick up an open ticket and make progress on it at some point throughout each month. Progress reports on these projects will be one of several topics addressed at the monthly meetings.
 * Be an active member of the DevRel Collective Slack group. Offer feedback in channels, actively moderate discussions to ensure compliance to our Code of Conduct, and engage in mentoring our new members as well as keeping an eye on the #moderators channel should any issues arise.
 * Be an active part of the Benevolent Dictators channel. Offer feedback on new applicants, participate in discussions about upcoming projects, and don’t hesitate to speak up if there are issues that need to be addressed.
-* Your commitment is for a 6-month stint. At the end of those six months, you have the option to re-commit and stick around for another three months, or take your leave. No hard feelings either way! We have a 6-month rotation specifically because we know that some months are more difficult than others to be actively involved in the group.
+* Your commitment is for a 6-month stint. At the end of those six months, you have the option to re-commit and stick around for another six months, or take your leave. No hard feelings either way! We have a 6-month rotation specifically because we know that some months are more difficult than others to be actively involved in the group.
 
 Still interested? Please fill out this form: https://goo.gl/forms/6z3qNtiVQiAtO2Kr2
 
