@@ -1,6 +1,6 @@
 # Getting Started
 
-The DevRel Collective (formerly Evangelist Collective aka We Are Developer Evangelists aka WADE) exists to facilitate sharing information, resources, and encouragement among the professional Developer Advocates, Evangelists, and Technical Community Manager community. If you share a passion for nurturing developer communities and would like to get to know a great group of friendly peers, [reach out about joining](http://goo.gl/forms/1d5PK0TCAI) the collective.
+The DevRel Collective (formerly Evangelist Collective aka We Are Developer Evangelists aka WADE) exists to facilitate sharing information, resources, and encouragement among the professional Developer Advocates, Evangelists, and Technical Community Manager community. If you share a passion for nurturing developer communities and would like to get to know a great group of friendly peers, [reach out about joining](https://devrelcollective.typeform.com/to/YnQuVJ) the collective.
 
 * [Getting Started](#getting-started)
    * [Interested in Joining](#interested-in-joining)
@@ -36,7 +36,7 @@ We have a team of awesome people around to keep DevRel Collective running smooth
 * If you're on the road as often as the rest of us are, you'll want to join the `#on-the-road-again` channel. You can figure out who's going to be where when, what the hot conferences are, and when you'll have a chance to meet your new internet best friend IRL.
 * Lastly, make yourself at home! Check out the various channels, ask questions, share ideas, and meet new friends.
 * Suggestions on how to make the group better? Visit us over at `#moderators`.
-* Know other people that you think might be a good fit for the group? Have them [request an invite](http://evangelistcollective.github.io/#about).
+* Know other people that you think might be a good fit for the group? Have them [request an invite](https://devrelcollective.fun/).
 
 ### Introduce yourself!
 
