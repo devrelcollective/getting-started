@@ -10,6 +10,7 @@
 | Josh Dzielak (`dzello`) | [Algolia](https://algolia.com) | Developer Relations Lead | [Blog](https://dzello.com) | [@dzello](https://twitter.com/dzello) | [dzello](https://www.github.com/dzello) |
 | Leon Stigter (`retgits`) | [JFrog](https://jfrog.com) | Developer Advocate | [Blog](https://retgits.com) | [@LeonStigter](https://twitter.com/LeonStigter) | [retgits](https://github.com/retgits) |
 | Matt Jarvis (`mattj`) | [Mesosphere](https://dcos.io) | Senior Director, Community and Evangelism | [Blog](https://mattjarvis.org.uk) | [@mattj_io](https://twitter.com/mattj_io) | [mattj-io](https://www.github.com/mattj-io) |
+| Jim Bennett (`jimbobbennett`) | [Microsoft](https://developer.microsoft.com/en-us/advocates/) | Senior Cloud Advocate | [Blog](https://jimbobbennett.io) | [@jimbobbennett](https://twitter.com/jimbobbennett) | [jimbobbennett](https://www.github.com/jimbobbennett) |
 | Matt Stratton (`mattstratton`) | [PagerDuty](https://www.pagerduty.com) | DevOps Evangelist | [Blog](https://medium.com/@mattstratton) | [@mattstratton](https://twitter.com/mattstratton) | [mattstratton](https://www.github.com/mattstratton) |
 | Srushtika Neelakantam (`srushtika`) | [Ably Realtime](https://www.ably.io) | Developer Advocate | [Blog](https://medium.com/@n.srushtika/) | [@Srushtika](https://twitter.com/Srushtika) | [Srushtika](https://github.com/Srushtika) |
 | Zan Markan (`zmarkan`) | [Pusher](https://pusher.com) | Developer Evangelist | [Blog](https://medium.com/devrel-life) | [@zmarkan](https://twitter.com/zmarkan) | [zmarkan](https://github.com/zmarkan) |
