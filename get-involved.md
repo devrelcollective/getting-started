@@ -9,7 +9,7 @@ As many of us know, like most things we do as DevRel professionals, running this
 * Be an active part of the Benevolent Dictators channel. Offer feedback on new applicants, participate in discussions about upcoming projects, and don’t hesitate to speak up if there are issues that need to be addressed.
 * Your commitment is for a 6-month stint. At the end of those six months, you have the option to re-commit and stick around for another six months, or take your leave. No hard feelings either way! We have a 6-month rotation specifically because we know that some months are more difficult than others to be actively involved in the group.
 
-Still interested? Please fill out this form: https://goo.gl/forms/6z3qNtiVQiAtO2Kr2
+Still interested? Please fill out this form: https://devrelcollective.typeform.com/to/W452V9
 
 Sounds a little too intense for your liking? No worries at all! Join the #help-needed channel in Slack instead or take a look at the issues on Github to see how you can help out.
 
