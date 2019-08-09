@@ -16,7 +16,7 @@ The DevRel Collective (formerly Evangelist Collective aka We Are Developer Evang
 
 ## Interested in Joining
 
-If you're job title aligns with one of those mentioned above, please fill out the form to join. If it doesn't and you'd still like to reach out to our community, please open an Issue on this repo.
+If your job title aligns with one of those mentioned above, please [fill out the form to join](https://devrelcollective.typeform.com/to/YnQuVJ). If it doesn't and you'd still like to reach out to our community, please [open an Issue on this repo](https://github.com/devrelcollective/getting-started/issues).
 
 ## New Members
 
@@ -52,8 +52,8 @@ This is the DevRel Collective's place to store documentation and track ideas we 
 
 ### How Can I Help?
 
-Aww shucks, thanks for asking. Check out [our get involved documentation](get-involved.md). It's always nice to see you open an issue, or PR!, saying you'd be game to help and how (documentation, coding, strategy, marketing).
+Aww shucks, thanks for asking! Check out [our get involved documentation](get-involved.md). It's always nice to see you open an issue or PR saying you'd be game to help and how (documentation, coding, strategy, marketing).
 
 ### Background
 
-Our collective is an inclusive thought experiment started by Dave Josephsen and now supported by a group of volunteers lead by Mary Thengvall. We love all our previous names equally.
+Our collective is an inclusive thought experiment started by Dave Josephsen and now supported by a group of volunteers led by Mary Thengvall. We love all our previous names equally.
