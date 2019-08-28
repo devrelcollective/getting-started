@@ -29,7 +29,7 @@ Welcome! First and foremost, check out our [Code of Conduct](CodeOfConduct.md). 
 
 ### We're here to help
 
-We have a team of awesome people around to keep DevRel Collective running smoothly. If you ever need help or get stuck, ping Mary Thengvall: @mary_grace. A few more tips to get you started:
+We have a team of awesome people around to keep DevRel Collective running smoothly. If you ever need help or get stuck, ping Jeremy Meiss: @jeremymeiss. A few more tips to get you started:
 
 * Say hi in the `#welcome` channel to meet everyone or hop into a conversation in `#general`. Feel free to introduce yourself and say hi to those people you may have met elsewhere, and meet those that you haven't yet had the pleasure of getting to know. Don't worry about not being "technical enough" or feel like you have to know everyone to fit in. We're a very welcoming group, and we've got everyone from event managers to CTOs in here, so we're sure you'll find someone to talk to!
 * Find a city room to connect with those folks who are in your local area, or in a city you're traveling to. Post your upcoming events, see who's around, and meet up in person to get to know the community better.
