@@ -53,7 +53,7 @@ Content must not be malware. For example, content (code, video, pictures, words,
 Content name, description, and other visible metadata must not include abusive, inappropriate, or harassing content.
 
 # Reporting Violations of this Code of Conduct
-If you believe someone is harassing you or has otherwise violated this Code of Conduct, please contact us at reach out to Mary Thengvall (@mary_grace), Matt Broberg (@mbbroberg), Dave Josephsen (@dave), Swarna Podila (@swarna), or Jeremy Meiss (@jeremymeiss) and send us an abuse report. If this is the initial report of a problem, please include as much detail as possible. It is easiest for us to address issues when we have more context.
+If you believe someone is harassing you or has otherwise violated this Code of Conduct, please contact any of the admins listed at the top of this document and send us an abuse report. If this is the initial report of a problem, please include as much detail as possible. It is easiest for us to address issues when we have more context.
 
 # Consequences
 All content published to DevRel Collective, including user account credentials, is hosted at the sole discretion of the DevRel Collective administrators.
@@ -67,19 +67,13 @@ If a community member engages in unacceptable behavior, the DevRel Collective ad
 # Addressing Grievances
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the DevRel Collective team:
 * We're here to help:
-  - Matt Broberg: @mbbroberg
-  - Jeremy Meiss: @jeremymeiss
-  - Karissa Peth: @karissa
-  - Quintessence Anx: @quintessence
-  - Dave Josephsen: @dave
-  - David Simmons: @davidgs
 
 We will do our best to ensure that your grievance is handled appropriately.
 
 In general, we will choose the course of action that we judge as being most in the interest of fostering a safe and friendly community.
 
 # Contact Info
-Please contact Matt Broberg (@mbbroberg), Dave Josephsen (@dave), Karissa Peth (@karissa), Quintessence Anx (@quintessence), Jeremy Meiss (@jeremymeiss) or David Simmons (@davidgs) if you need to report a problem or address a grievance related to an abuse report.
+Please contact any of the admins listed at the top of this document if you need to report a problem or address a grievance related to an abuse report.
 
 You are also encouraged to contact us if you are curious about something that might be "on the line" between appropriate and inappropriate content. We are happy to provide guidance to help you be a successful part of our community.
 
