@@ -7,11 +7,11 @@ Towards this end, certain behaviors and practices will not be tolerated.
 # tl;dr
 * Be respectful
 * We're here to help:
-  - Mary Thengvall: @mary_grace
   - Jeremy Meiss: @jeremymeiss
   - Karissa Peth: @karissa
   - Quintessence Anx: @quintessence
   - Dave Josephsen: @dave
+  - David Simmons: @davidgs
   
 * Abusive behavior is never tolerated
 * Data published to DevRel Collective is hosted at the discretion of the administrators, and may be removed
@@ -67,19 +67,19 @@ If a community member engages in unacceptable behavior, the DevRel Collective ad
 # Addressing Grievances
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the DevRel Collective team:
 * We're here to help:
-  - Mary Thengvall: @mary_grace
   - Matt Broberg: @mbbroberg
   - Jeremy Meiss: @jeremymeiss
   - Karissa Peth: @karissa
   - Quintessence Anx: @quintessence
   - Dave Josephsen: @dave
+  - David Simmons: @davidgs
 
 We will do our best to ensure that your grievance is handled appropriately.
 
 In general, we will choose the course of action that we judge as being most in the interest of fostering a safe and friendly community.
 
 # Contact Info
-Please contact Mary Thengvall (@mary_grace), Matt Broberg (@mbbroberg), Dave Josephsen (@dave), Karissa Peth (@karissa), Quintessence Anx (@quintessence), or Jeremy Meiss (@jeremymeiss) if you need to report a problem or address a grievance related to an abuse report.
+Please contact Matt Broberg (@mbbroberg), Dave Josephsen (@dave), Karissa Peth (@karissa), Quintessence Anx (@quintessence), Jeremy Meiss (@jeremymeiss) or David Simmons (@davidgs) if you need to report a problem or address a grievance related to an abuse report.
 
 You are also encouraged to contact us if you are curious about something that might be "on the line" between appropriate and inappropriate content. We are happy to provide guidance to help you be a successful part of our community.
 
