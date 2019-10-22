@@ -10,7 +10,7 @@ Towards this end, certain behaviors and practices will not be tolerated.
   - Jeremy Meiss: @jeremymeiss
   - Karissa Peth: @karissa
   - Quintessence Anx: @quintessence
-  - Matty Stratton: @Matty Stratton
+  - Matt Stratton: @Matty Stratton
   - Jocelyn: @jocelyn
   - Dave Josephsen: @dave
   - David Simmons: @davidgs
