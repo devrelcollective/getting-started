@@ -10,6 +10,8 @@ Towards this end, certain behaviors and practices will not be tolerated.
   - Jeremy Meiss: @jeremymeiss
   - Karissa Peth: @karissa
   - Quintessence Anx: @quintessence
+  - Matty Stratton: @Matty Stratton
+  - Jocelyn: @jocelyn
   - Dave Josephsen: @dave
   - David Simmons: @davidgs
   
@@ -44,7 +46,7 @@ Harassment includes, but is not limited to: harmful or prejudicial verbal or wri
 # Acceptable Content
 The DevRel Collective administrators reserve the right to make judgement calls about what is and isn't appropriate in published content. These are guidelines to help you be successful in our community.
 
-Content must contain something applicable to the previously stated goals of the DevRel Collective community. "Spamming", that is, publishing any form of content that is not applicable, is not allowed.
+Content must contain something applicable to the previously stated goals of the DevRel Collective community. "Spamming", that is, publishing any form of content that is not applicable, is not allowed. 
 
 Content must not contain illegal or infringing content. You should only publish content to DevRel Collective if you have the right to do so. This includes complying with all software license agreements or other intellectual property restrictions. For example, redistributing an MIT-licensed module with the copyright notice removed, would not be allowed. You will be responsible for any violation of laws or others’ intellectual property rights.
 
