@@ -13,7 +13,9 @@ Still interested? Please fill out this form: https://devrelcollective.typeform.c
 
 Sounds a little too intense for your liking? No worries at all! Join the #help-needed channel in Slack instead or take a look at the issues on Github to see how you can help out.
 
-Questions? Feel free to reach out directly to Jeremy Meiss (@jeremymeiss) on Slack.
+Preference will be given to active members who have been in the Slack team for 6+ months.
+
+Questions? Feel free to reach out directly to Mary Thengvall (@mary_grace) on Slack.
 
 Best,  
-Jeremy, for all of the Benevolent Dictators
+Mary, for all of the Benevolent Dictators
