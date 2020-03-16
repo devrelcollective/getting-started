@@ -7,12 +7,10 @@ Towards this end, certain behaviors and practices will not be tolerated.
 # tl;dr
 * Be respectful
 * We're here to help:
+  - Mary Thengvall @mary_grace
   - Jeremy Meiss: @jeremymeiss
-  - Karissa Peth: @karissa
   - Quintessence Anx: @quintessence
-  - Matt Stratton: @Matty Stratton
   - Jocelyn: @jocelyn
-  - Dave Josephsen: @dave
   - David Simmons: @davidgs
   
 * Abusive behavior is never tolerated
