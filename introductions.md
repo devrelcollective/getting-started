@@ -18,3 +18,4 @@
 | Mike Jang (`mike jang`) | [ForgeRock](https://www.forgerock.com) | Senior Staff Technical Writer / Meetup Lead, Write the Docs | [Web](http://www.writethedocs.org), [LinkedIn](https://www.linkedin.com/in/mijang/)  | [@theMikeJang](https://twitter.com/theMikeJang) | [mjang](https://www.github.com/mjang) |
 | Srushtika Neelakantam (`srushtika`) | [Ably Realtime](https://www.ably.io) | Developer Advocate | [Blog](https://medium.com/@n.srushtika/) | [@Srushtika](https://twitter.com/Srushtika) | [Srushtika](https://github.com/Srushtika) |
 | Zan Markan (`zmarkan`) | [DataRobot](https://www.datarobot.com) | Developer Advocate | [Blog](https://medium.com/devrel-life) | [@zmarkan](https://twitter.com/zmarkan) | [zmarkan](https://github.com/zmarkan) |
+| Akshat Sharma (`shrmaky`) | [Tradeling](https://www.tradeling.com) | Developer Advocate | [Blog](https://dev.to/shrmaky) | [@zmarkan](https://twitter.com/shrmaky) | [shrmaky](https://github.com/shrmaky) |
