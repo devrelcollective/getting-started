@@ -19,3 +19,4 @@
 | Noël Macé (`noelmace`) | Looking! | Developer Advocate / Evangelist | [Web](https://noelmace.com), [LinkedIn](https://www.linkedin.com/in/noelmace/)  | [@noel_mace](https://twitter.com/noel_mace) | [noelmace](https://github.com/noelmace) |
 | Srushtika Neelakantam (`srushtika`) | [Ably Realtime](https://www.ably.io) | Developer Advocate | [Blog](https://medium.com/@n.srushtika/) | [@Srushtika](https://twitter.com/Srushtika) | [Srushtika](https://github.com/Srushtika) |
 | Zan Markan (`zmarkan`) | [DataRobot](https://www.datarobot.com) | Developer Advocate | [Blog](https://medium.com/devrel-life) | [@zmarkan](https://twitter.com/zmarkan) | [zmarkan](https://github.com/zmarkan) |
+| Akshat Sharma (`shrmaky`) | [Tradeling](https://www.tradeling.com) | Developer Advocate | [Blog](https://dev.to/shrmaky) | [@shrmaky](https://twitter.com/shrmaky) | [shrmaky](https://github.com/shrmaky) |
