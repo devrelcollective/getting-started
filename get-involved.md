@@ -1,6 +1,6 @@
 ## Admins @ DevRel Collective
 
-As many of us know, like most things we do as DevRel professionals, running this group takes a community of people. If you’re interested in being a part of that community, we’d love to have you on board! Here are the expectations that we have for the “Benevolent Dictators” (our tongue-in-cheek name for admins):
+As many of us know, like most things we do as DevRel professionals, running this group takes a community of people. If you’re interested in being a part of that community and have been actively involved in the DevRel Collective for at least 6 months, we’d love to have you on board! Here are the expectations that we have for the “Benevolent Dictators” (our tongue-in-cheek name for admins):
 
 * Be consistently present at the once-a-month meetings. Exceptions will obviously be made for travel and personal engagements, but the understanding is that these meetings will be a priority to all admins.
 * Be available and willing to contribute a few hours each month to various projects to move the group forward. NOTE: technical skills are not required! These projects will require writing, design, and coding skills alike, and we intend to have a variety of skills represented throughout the admin group to ensure that we can meet these needs.
