@@ -12,6 +12,9 @@ Towards this end, certain behaviors and practices will not be tolerated.
   - Quintessence Anx: @quintessence
   - Jocelyn: @jocelyn
   - David Simmons: @davidgs
+  - Jamie Langskov: @jamie
+  - Shodipo Ayomide: @@Shodipo Ayomide 
+  - Daniel 'phrawzty' Maher: @phrawzty 
   
 * Abusive behavior is never tolerated
 * Data published to DevRel Collective is hosted at the discretion of the administrators, and may be removed
