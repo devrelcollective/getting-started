@@ -12,7 +12,6 @@ Towards this end, certain behaviors and practices will not be tolerated.
   - Quintessence Anx: @quintessence
   - Jocelyn: @jocelyn
   - David Simmons: @davidgs
-  - Shodipo Ayomide: @@Shodipo Ayomide 
   - Daniel 'phrawzty' Maher: @phrawzty 
   
 * Abusive behavior is never tolerated
