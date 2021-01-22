@@ -20,7 +20,7 @@ Towards this end, certain behaviors and practices will not be tolerated.
 * Violations of this code may result in swift and permanent expulsion from the DevRel Collective community
 
 # Scope
-We expect all members of the DevRel Collective community, including administrators, users, facilitators, and vendors to abide by this Code of Conduct at all times in all DevRel Collective community venues, online and in person, and in one-on-one communications pertaining to DevRel Collective affairs.
+We expect all members of the DevRel Collective community, including administrators, users, facilitators, and vendors to abide by this Code of Conduct at all times in all DevRel Collective community venues, online and in person, all public and private channels, and in one-on-one communications pertaining to DevRel Collective affairs.
 
 This policy covers the usage of the DevRel Collective Slack community, as well as the DevRel Collective website, and any DevRel Collective-related events.
 
