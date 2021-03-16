@@ -1,3 +1,9 @@
+# DevRel Collective Governance Model
+When this Slack team was first started on September 8th, 2014, the Developer Relations industry looked quite different than it does now. This community has changed and grown since then, and the admin team has changed and grown with it. These days, the admin team involves a three-part governance model:
+- **Advisory Board** - members who have been involved in the DevRel Collective since the early days but are no longer as involved in the day-to-day
+- **Admin Lead or Benevolent Monarch** - the tie-breaker and executive decision-maker of the admins
+- **Admins** - responsible for the day-to-day ins and outs of the DevRel Collective
+
 ## Advisory Board
 - **What is it:** A type of contribution distinct from Admin role but still having Admin privileges (e.g. stays in the admin channel, GitHub, etc.). These individuals are invested in the long-term success of the DRC but aren’t as involved in the day-to-day responsibilities. The role of Advisory Board Member is not one which is meant to supersede the responsibilities, or the decision-making ability, of the Admin Lead or Admin Team. Instead, it is meant to provide support, insight, and historical precedent and relevancy.
 - **Length of time:** Indefinite, as long as board member is interested in being involved
