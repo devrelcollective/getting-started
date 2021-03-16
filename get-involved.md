@@ -2,12 +2,12 @@
 
 As many of us know, like most things we do as DevRel professionals, running this group takes a community of people. If you’re interested in being a part of that community and have been actively involved in the DevRel Collective for at least 6 months, we’d love to have you on board! Here are the expectations that we have for the “Benevolent Dictators” (our tongue-in-cheek name for admins):
 
-- *What is it:* A defined tier of admins who are responsible for the day-to-day health and success of the DRC; collectively: the Admin Team.
-- *Length of time:* 6 month stint which can “renew” at the end of each period. 
-- *Prerequisites:*
+- **What is it:** A defined tier of admins who are responsible for the day-to-day health and success of the DRC; collectively: the Admin Team.
+- **Length of time:** 6 month stint which can “renew” at the end of each period. 
+- **Prerequisites:**
   - Has been actively involved in the DevRel Collective for at least 6 months.
   - Actively takes the initiative to move projects forward and be actively involved in conversations.
-- *Responsibilities:*
+- **Responsibilities:**
   - Each admin is the lead for a specific function within the DRC:
     - Mentorship Program Creation & Maintenance
     - Salary Survey 
@@ -21,7 +21,7 @@ As many of us know, like most things we do as DevRel professionals, running this
     - Handle PR requests as appropriate
   - Be present and available for monthly meetings.
   - When an admin decides to step down, they’re responsible to find a replacement for that function -- whether through referral or re-opening the admin form.
-- *Removal:*
+- **Removal:**
   - Violation of any Code of Conduct, be it DRC or any other community or organisation (online or in-person), is grounds for immediate removal, no questions asked.
   - Inability to fulfill the responsibilities, as outlined above, over a three month period is grounds for removal.
 
