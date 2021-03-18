@@ -60,7 +60,7 @@ When this Slack team was first started on September 8th, 2014, the Developer Rel
   - Has been actively involved in the DevRel Collective for at least 6 months.
   - Actively takes the initiative to move projects forward and be actively involved in conversations.
 - **Responsibilities:**
-  - Each admin is the lead for a specific function within the DRC:
+  - There are functions and projects that the DRC willingly takes on. Each must have a lead, but not every Admin needs to lead a function. 
     - Mentorship Program Creation & Maintenance
     - Salary Survey 
     - Tool Development & Maintenance (e.g. On-Call Bot)
