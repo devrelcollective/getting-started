@@ -6,7 +6,7 @@ When this Slack team was first started on September 8th, 2014, the Developer Rel
 
 ## Advisory Board
 - **What is it:** A type of contribution distinct from Admin role but still having Admin privileges (e.g. stays in the admin channel, GitHub, etc.). These individuals are invested in the long-term success of the DRC but aren’t as involved in the day-to-day responsibilities. The role of Advisory Board Member is not one which is meant to supersede the responsibilities, or the decision-making ability, of the Admin Lead or Admin Team. Instead, it is meant to provide support, insight, and historical precedent and relevancy.
-- **Length of time:** Indefinite, as long as board member is interested in being involved
+- **Length of time:** Indefinite, as long as board member is interested in being involved, regardless of title, position, or career progression.
 - **Prerequisites:**
   - Has to have been an Admin or Lead Admin for at least 2 years and in the DRC for at least 3 years.
   - Qualified members can be added to the board on a unanimous lazy consensus vote by sitting members.
