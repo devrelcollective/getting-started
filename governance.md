@@ -17,7 +17,7 @@ When this Slack team was first started on September 8th, 2014, the Developer Rel
   - Attend admin meetings at least once per quarter on a rotating basis (e.g. Mary attends in April, Jeremy in May, Matt in June) in an advisory capacity only. Should a board member not be able to attend, the admin meetings happen per usual.
   - Are available for contact through the Slack team in the #benevolent-dictators channel, or other methods as appropriate or necessary.
 - **Removal:**
-  - Violation of any Code of Conduct, be it DRC or any other community or organisation (online or in-person), is grounds for immediate removal, no questions asked.
+  - Violation of our Code of Conduct is grounds for immediate removal, no questions asked. Violation of any code of conduct where Admins are participating, be it DRC or any other community or organisation (online or in-person), are also grounds for immediate removal.
   - Inability to fulfill the responsibilities, as outlined above, over a three month period is grounds for removal.
 
 ## Admin Lead 
@@ -50,7 +50,7 @@ When this Slack team was first started on September 8th, 2014, the Developer Rel
   - Keep a loose eye on and answer any questions that come through on Twitter
   - When taking time off for vacation, family emergencies, etc. (as you should!), designate an “Interim Monarch” to be the proxy in your absence.
 - **Removal:**
-  - Violation of any Code of Conduct, be it DRC or any other community or organisation (online or in-person), is grounds for immediate removal, no questions asked.
+  - Violation of our Code of Conduct is grounds for immediate removal, no questions asked. Violation of any code of conduct where Admins are participating, be it DRC or any other community or organisation (online or in-person), are also grounds for immediate removal.
   - Inability to fulfill the responsibilities, as outlined above, over a three month period is grounds for removal.
 
 ## Admins
