@@ -76,3 +76,5 @@ When this Slack team was first started on September 8th, 2014, the Developer Rel
 - **Removal:**
   - Violation of our Code of Conduct is grounds for immediate removal, no questions asked. Violation of any code of conduct where Admins are participating, be it DRC or any other community or organisation (online or in-person), are also grounds for immediate removal.
   - Inability to fulfill the responsibilities, as outlined above, over a three month period is grounds for removal.
+
+***Updated: 2021-04-01***
