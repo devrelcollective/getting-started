@@ -66,8 +66,7 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 If a community member engages in unacceptable behavior, the DevRel Collective administrators may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event or service).
 
 # Addressing Grievances
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the DevRel Collective team:
-* We're here to help:
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, please notify the DevRel Collective admin team either by posting in #moderators or reaching out privately via DM to any of the admins listed at the top of this document.
 
 We will do our best to ensure that your grievance is handled appropriately.
 
