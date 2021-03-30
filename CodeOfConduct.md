@@ -6,14 +6,15 @@ Towards this end, certain behaviors and practices will not be tolerated.
 
 # tl;dr
 * Be respectful
+* No solicitation
 * We're here to help:
   - Mary Thengvall @mary_grace
   - Jeremy Meiss: @jeremymeiss
   - Quintessence Anx: @quintessence
   - Jocelyn: @jocelyn
   - David Simmons: @davidgs
-  - Daniel 'phrawzty' Maher: @phrawzty 
-  
+  - Daniel 'phrawzty' Maher: @phrawzty
+
 * Abusive behavior is never tolerated
 * Data published to DevRel Collective is hosted at the discretion of the administrators, and may be removed
 * Violations of this code may result in swift and permanent expulsion from the DevRel Collective community
@@ -32,7 +33,7 @@ We are committed to providing a friendly, safe, and welcoming environment for al
 
 We ask that you please respect that people have differences of opinion regarding technical choices, and acknowledge that every design or implementation choice carries a trade-off and numerous costs. There is seldom a single right answer. A difference of technology preferences is never a license to be rude.
 
-Everything shared in the DevRel Collective is under FrieNDA. All opinions, concerns, feelings, rants, and viewpoints, whether about people, events, companies, or the tech industry, shared in this Slack shouldn't be shared without the explicit (and enthusiastic) consent of the person who shared it. This includes sharing information without attributing it to the specific person who said it (e.g. "I heard in a Slack team I'm a part of that... "). In short, if the information is public knowledge (i.e. can be cited by a readily available online source), it's fine to share, but if you're quoting an individual's opinion, you must receive their permission first. 
+Everything shared in the DevRel Collective is under FrieNDA. All opinions, concerns, feelings, rants, and viewpoints, whether about people, events, companies, or the tech industry, shared in this Slack shouldn't be shared without the explicit (and enthusiastic) consent of the person who shared it. This includes sharing information without attributing it to the specific person who said it (e.g. "I heard in a Slack team I'm a part of that... "). In short, if the information is public knowledge (i.e. can be cited by a readily available online source), it's fine to share, but if you're quoting an individual's opinion, you must receive their permission first.
 
 Any spamming, trolling, flaming, baiting, or other attention-stealing behaviour is not welcome, and will not be tolerated.
 
@@ -45,13 +46,18 @@ Harassment includes, but is not limited to: harmful or prejudicial verbal or wri
 # Acceptable Content
 The DevRel Collective administrators reserve the right to make judgement calls about what is and isn't appropriate in published content. These are guidelines to help you be successful in our community.
 
-Content must contain something applicable to the previously stated goals of the DevRel Collective community. "Spamming", that is, publishing any form of content that is not applicable, is not allowed. 
+Content must contain something applicable to the previously stated goals of the DevRel Collective community. "Spamming", that is, publishing any form of content that is not applicable, is not allowed.
 
 Content must not contain illegal or infringing content. You should only publish content to DevRel Collective if you have the right to do so. This includes complying with all software license agreements or other intellectual property restrictions. For example, redistributing an MIT-licensed module with the copyright notice removed, would not be allowed. You will be responsible for any violation of laws or others’ intellectual property rights.
 
 Content must not be malware. For example, content (code, video, pictures, words, etc.) which is designed to maliciously exploit or damage computer systems, is not allowed.
 
 Content name, description, and other visible metadata must not include abusive, inappropriate, or harassing content.
+
+# No Solicitation
+We all work for great companies (or have our own consultancies), and 'evangelizing' our products and services is part of what we do. But this is meant as a space to learn good practices from each other, talk about our careers, our wins, struggles, etc. It's not meant to be a place to solicit new business.
+
+To that end, direct, unsolicited pitching of a business, product, or service to other members, whether it be in a channel or Direct Message (DM) is not allowed.
 
 # Reporting Violations of this Code of Conduct
 If you believe someone is harassing you or has otherwise violated this Code of Conduct, please contact any of the admins listed at the top of this document and send us an abuse report. If this is the initial report of a problem, please include as much detail as possible. It is easiest for us to address issues when we have more context.
