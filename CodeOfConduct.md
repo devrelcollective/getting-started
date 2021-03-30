@@ -54,10 +54,10 @@ Content must not be malware. For example, content (code, video, pictures, words,
 
 Content name, description, and other visible metadata must not include abusive, inappropriate, or harassing content.
 
-# No solicitation
-We all work for great companies (or have our own consultancies), and 'evangelizing' our products and services is part of what we do. But this is meant as a space to learn best-practices from each other, talk about our careers, our wins, struggles, etc. It's not meant to be a place to solicit new business.
+# No Solicitation
+We all work for great companies (or have our own consultancies), and 'evangelizing' our products and services is part of what we do. But this is meant as a space to learn good practices from each other, talk about our careers, our wins, struggles, etc. It's not meant to be a place to solicit new business.
 
-To that end, direct solicitatoion to other members, whether it be in a channel or Direct Message (DM) is not allowed.
+To that end, direct, unsolicited pitching of a business, product, or service to other members, whether it be in a channel or Direct Message (DM) is not allowed.
 
 # Reporting Violations of this Code of Conduct
 If you believe someone is harassing you or has otherwise violated this Code of Conduct, please contact any of the admins listed at the top of this document and send us an abuse report. If this is the initial report of a problem, please include as much detail as possible. It is easiest for us to address issues when we have more context.
