@@ -1,6 +1,6 @@
 # Getting Started
 
-The DevRel Collective (formerly Evangelist Collective aka We Are Developer Evangelists aka WADE) exists to facilitate sharing information, resources, and encouragement among the professional Developer Advocates, Evangelists, and Technical Community Manager community. If you share a passion for nurturing developer communities and would like to get to know a great group of friendly peers, [reach out about joining](https://devrelcollective.typeform.com/to/YnQuVJ) the collective.
+The DevRel Collective (formerly Evangelist Collective aka We Are Developer Evangelists aka WADE) exists to facilitate sharing information, resources, and encouragement among the professional Developer Advocates, Evangelists, and Technical Community Manager community. If you share a passion for nurturing developer communities, are working as a full-time DevRel professional, and would like to get to know a great group of friendly peers, [reach out about joining](https://devrelcollective.typeform.com/to/YnQuVJ) the collective.
 
 * [Getting Started](#getting-started)
    * [Interested in Joining](#interested-in-joining)
@@ -11,6 +11,7 @@ The DevRel Collective (formerly Evangelist Collective aka We Are Developer Evang
       * [How to Use This Repo](#how-to-use-this-repo)
       * [How Can I Help?](#how-can-i-help)
       * [Background](#background)
+      * [Governance Model](/governance.md)
 
 <!-- Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc) -->
 
@@ -56,4 +57,4 @@ Aww shucks, thanks for asking! Check out [our get involved documentation](get-in
 
 ### Background
 
-Our collective is an inclusive thought experiment started by Dave Josephsen and now supported by a group of volunteers led by Mary Thengvall. We love all our previous names equally.
+Our collective is an inclusive thought experiment started by Dave Josephsen, Florian Motlik, and Mary Thengvall, and is now supported by a group of volunteers including a Board of Directors and an Admin Team. See our [Governance Model](/governance.md) for more information.
