@@ -22,3 +22,4 @@
 | Srushtika Neelakantam (`srushtika`) | [Ably Realtime](https://www.ably.io) | Developer Advocate | [Blog](https://medium.com/@n.srushtika/) | [@Srushtika](https://twitter.com/Srushtika) | [Srushtika](https://github.com/Srushtika) |
 | Zan Markan (`zmarkan`) | [DataRobot](https://www.datarobot.com) | Developer Advocate | [Blog](https://medium.com/devrel-life) | [@zmarkan](https://twitter.com/zmarkan) | [zmarkan](https://github.com/zmarkan) |
 | Akshat Sharma (`shrmaky`) | [Tradeling](https://www.tradeling.com) | Developer Advocate | [Blog](https://dev.to/shrmaky) | [@shrmaky](https://twitter.com/shrmaky) | [shrmaky](https://github.com/shrmaky) |
+| Meenakshi Dhanani (`mdhananii`) | [Postman](https://www.postman.com) | Developer Advocate | [Blog](https://meenakshi-dhanani.medium.com/), [LinkedIn](https://www.linkedin.com/in/meenakshi-dhanani) | [@mdhananii](https://twitter.com/mdhananii) | [meenakshi-dhanani](https://github.com/meenakshi-dhanani) |
