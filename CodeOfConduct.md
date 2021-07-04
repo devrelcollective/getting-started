@@ -14,6 +14,8 @@ Towards this end, certain behaviors and practices will not be tolerated.
   - Jocelyn: @jocelyn
   - David Simmons: @davidgs
   - Daniel 'phrawzty' Maher: @phrawzty
+  - Swarna Podila: @swarna
+  - Ruth Cheesley: @Ruth_Cheesley
 
 * Abusive behavior is never tolerated
 * Data published to DevRel Collective is hosted at the discretion of the administrators, and may be removed
