@@ -3,6 +3,7 @@
 The DevRel Collective (formerly Evangelist Collective aka We Are Developer Evangelists aka WADE) exists to facilitate sharing information, resources, and encouragement among the professional Developer Advocates, Evangelists, and Technical Community Manager community. If you share a passion for nurturing developer communities, are working as a full-time DevRel professional, and would like to get to know a great group of friendly peers, [reach out about joining](https://devrelcollective.typeform.com/to/YnQuVJ) the collective.
 
 * [Getting Started](#getting-started)
+   * [Current Leadership](#current-leadership)
    * [Interested in Joining](#interested-in-joining)
    * [New Members](#new-members)
       * [We're here to help](#were-here-to-help)
@@ -14,6 +15,23 @@ The DevRel Collective (formerly Evangelist Collective aka We Are Developer Evang
       * [Governance Model](/governance.md)
 
 <!-- Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc) -->
+
+## Current Leadership
+
+### Admin Team
+**Lead Admin**   
+- Jocelyn Matthews  
+
+**Admins**
+- Quintessence Anx
+- Swarna Podila
+- David Simmons
+- Daniel Maher
+
+### Advisory Board
+- Mary Thengvall
+- Matt Broberg
+- Jeremy Meiss
 
 ## Interested in Joining
 
