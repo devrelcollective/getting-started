@@ -27,6 +27,7 @@ The DevRel Collective (formerly Evangelist Collective aka We Are Developer Evang
 - Swarna Podila
 - David Simmons
 - Daniel Maher
+- Ruth Cheesley
 
 ### Advisory Board
 - Mary Thengvall
