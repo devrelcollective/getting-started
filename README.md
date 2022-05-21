@@ -24,8 +24,7 @@ The DevRel Collective (formerly Evangelist Collective aka We Are Developer Evang
 
 **Admins**
 - Quintessence Anx
-- Swarna Podila
-- David Simmons
+- David G. Simmons
 - Daniel Maher
 - Ruth Cheesley
 
