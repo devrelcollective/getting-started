@@ -12,9 +12,8 @@ Towards this end, certain behaviors and practices will not be tolerated.
   - Jeremy Meiss: @jeremymeiss
   - Quintessence Anx: @quintessence
   - Jocelyn: @jocelyn
-  - David Simmons: @davidgs
+  - David G. Simmons: @davidgs
   - Daniel 'phrawzty' Maher: @phrawzty
-  - Swarna Podila: @swarna
   - Ruth Cheesley: @Ruth_Cheesley
 
 * Abusive behavior is never tolerated
