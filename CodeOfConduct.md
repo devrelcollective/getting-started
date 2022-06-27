@@ -8,14 +8,12 @@ Towards this end, certain behaviors and practices will not be tolerated.
 * Be respectful
 * No solicitation
 * We're here to help:
-  - Mary Thengvall @mary_grace
-  - Jeremy Meiss: @jeremymeiss
   - Quintessence Anx: @quintessence
   - Jocelyn: @jocelyn
-  - David Simmons: @davidgs
   - Daniel 'phrawzty' Maher: @phrawzty
-  - Swarna Podila: @swarna
   - Ruth Cheesley: @Ruth_Cheesley
+  - Mary Thengvall @mary_grace
+  - Jeremy Meiss: @jeremymeiss
 
 * Abusive behavior is never tolerated
 * Data published to DevRel Collective is hosted at the discretion of the administrators, and may be removed
