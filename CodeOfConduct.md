@@ -33,8 +33,6 @@ We are committed to providing a friendly, safe, and welcoming environment for al
 
 We ask that you please respect that people have differences of opinion regarding technical choices, and acknowledge that every design or implementation choice carries a trade-off and numerous costs. There is seldom a single right answer. A difference of technology preferences is never a license to be rude.
 
-Everything shared in the DevRel Collective is under FrieNDA. All opinions, concerns, feelings, rants, and viewpoints, whether about people, events, companies, or the tech industry, shared in this Slack shouldn't be shared without the explicit (and enthusiastic) consent of the person who shared it. This includes sharing information without attributing it to the specific person who said it (e.g. "I heard in a Slack team I'm a part of that... "). In short, if the information is public knowledge (i.e. can be cited by a readily available online source), it's fine to share, but if you're quoting an individual's opinion, you must receive their permission first.
-
 Any spamming, trolling, flaming, baiting, or other attention-stealing behaviour is not welcome, and will not be tolerated.
 
 Harassing other users of DevRel Collective is never tolerated, whether via public or private media.
@@ -44,6 +42,11 @@ Avoid using offensive or harassing package names, nicknames, or other identifier
 Harassment includes, but is not limited to: harmful or prejudicial verbal or written comments related to gender identity, sexual orientation, disability, ethnicity, religion, age, physical appearance, body size, race, or similar personal characteristics; inappropriate use of nudity, sexual images, and/or sexually explicit language in public spaces; threats of physical or non-physical harm; deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention.
 
 Any member of a hate organization, or supporter of such, is not welcome.
+
+Everything shared in the DevRel Collective is under FrieNDA. 
+### FrieNDA
+> All opinions, concerns, feelings, rants, and viewpoints, whether about people, events, companies, or the tech industry, shared in this Slack shouldn't be shared without the explicit (and enthusiastic) consent of the person who shared it. This includes sharing information without attributing it to the specific person who said it (e.g. "I heard in a Slack team I'm a part of that... "). In short, if the information is public knowledge (i.e. can be cited by a readily available online source), it's fine to share, but if you're quoting an individual's opinion, you must receive their permission first.
+
 
 # Acceptable Content
 The DevRel Collective administrators reserve the right to make judgement calls about what is and isn't appropriate in published content. These are guidelines to help you be successful in our community.
