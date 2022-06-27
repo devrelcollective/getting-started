@@ -20,12 +20,11 @@ The DevRel Collective (formerly Evangelist Collective aka We Are Developer Evang
 
 ### Admin Team
 **Lead Admin**   
-- Jocelyn Matthews  
+- Jeremy Meiss
 
 **Admins**
+- Jocelyn Matthews  
 - Quintessence Anx
-- Swarna Podila
-- David Simmons
 - Daniel Maher
 - Ruth Cheesley
 
