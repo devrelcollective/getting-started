@@ -12,6 +12,8 @@ Towards this end, certain behaviors and practices will not be tolerated.
   - Jocelyn: @jocelyn
   - Daniel 'phrawzty' Maher: @phrawzty
   - Ruth Cheesley: @Ruth_Cheesley
+  - Nyah Macklin: @Nyah_Macklin
+  - Robin Moffat: @rmoff
   - Mary Thengvall @mary_grace
   - Jeremy Meiss: @jeremymeiss
 
