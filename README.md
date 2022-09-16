@@ -27,6 +27,8 @@ The DevRel Collective (formerly Evangelist Collective aka We Are Developer Evang
 - Quintessence Anx
 - Daniel Maher
 - Ruth Cheesley
+- Nyah Macklin
+- Robin Moffatt
 
 ### Advisory Board
 - Mary Thengvall
