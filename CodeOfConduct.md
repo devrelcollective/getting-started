@@ -66,9 +66,6 @@ We all work for great companies (or have our own consultancies), and 'evangelizi
 
 To that end, direct, unsolicited pitching of a business, product, or service to other members, whether it be in a channel or Direct Message (DM) is not allowed.
 
-# Reporting Violations of this Code of Conduct
-If you believe someone is harassing you or has otherwise violated this Code of Conduct, please contact any of the admins listed at the top of this document and send us an abuse report. If this is the initial report of a problem, please include as much detail as possible. It is easiest for us to address issues when we have more context.
-
 # Consequences
 All content published to DevRel Collective, including user account credentials, is hosted at the sole discretion of the DevRel Collective administrators.
 
@@ -78,12 +75,23 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a community member engages in unacceptable behavior, the DevRel Collective administrators may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event or service).
 
+# Reporting Violations of this Code of Conduct
+If you believe someone is harassing you or has otherwise violated this Code of Conduct, please use [this]() form to submit a report which will then be reviewed by the admin team. The admin members who will review this report are: 
+  - Quintessence Anx: @quintessence
+  - Jocelyn: @jocelyn
+  - Daniel 'phrawzty' Maher: @phrawzty
+  - Ruth Cheesley: @Ruth_Cheesley
+  - Nyah Macklin: @Nyah_Macklin
+  - Robin Moffat: @rmoff
+  - Mary Thengvall @mary_grace
+  - Jeremy Meiss: @jeremymeiss
+If this is the initial report of a problem, please include as much detail as possible. It is easiest for us to address issues when we have more context. If your report is about a particular admin member or if you don't feel comfortable using the form, you can also Direct Message any inidivual admin team member the contents of your report with any relevant information and it will be handled accordingly. Form submittors will have an option to decide whether or not they want to be informed of the details of the decision. 
+
+# Process
+The admin team (minus any inidivuals included in the report if applicable) will review the report, ask for clarifying information and/or come to a decision. We will do our best to ensure that your grievance is handled appropriately. In general, we will choose the course of action that we judge as being most in the interest of fostering a safe and friendly community.
+
 # Addressing Grievances
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, please notify the DevRel Collective admin team either by posting in #moderators or reaching out privately via DM to any of the admins listed at the top of this document.
-
-We will do our best to ensure that your grievance is handled appropriately.
-
-In general, we will choose the course of action that we judge as being most in the interest of fostering a safe and friendly community.
 
 # Contact Info
 Please contact any of the admins listed at the top of this document if you need to report a problem or address a grievance related to an abuse report.
