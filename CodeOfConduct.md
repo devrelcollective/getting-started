@@ -85,7 +85,7 @@ If you believe someone is harassing you or has otherwise violated this Code of C
   - Robin Moffat: @rmoff
   - Mary Thengvall @mary_grace
   - Jeremy Meiss: @jeremymeiss
-If this is the initial report of a problem, please include as much detail as possible. It is easiest for us to address issues when we have more context. If your report is about a particular admin member or if you don't feel comfortable using the form, you can also Direct Message any inidivual admin team member the contents of your report with any relevant information and it will be handled accordingly. Form submittors will have an option to decide whether or not they want to be informed of the details of the decision. 
+If this is the initial report of a problem, please include as much detail as possible. It is easiest for us to address issues when we have more context. If your report is about a particular admin member or if you don't feel comfortable using the form, you can also Direct Message via Slack any individual admin team member the contents of your report with any relevant information and it will be handled accordingly. Form submittors will have an option to decide whether or not they want to be informed of the details of the decision. 
 
 # Process
 The admin team (minus any inidivuals included in the report if applicable) will review the report, ask for clarifying information and/or come to a decision. We will do our best to ensure that your grievance is handled appropriately. In general, we will choose the course of action that we judge as being most in the interest of fostering a safe and friendly community.
