@@ -13,6 +13,7 @@ Towards this end, certain behaviors and practices will not be tolerated.
   - Daniel 'phrawzty' Maher: @phrawzty
   - Ruth Cheesley: @Ruth_Cheesley
   - Nyah Macklin: @Nyah_Macklin
+  - David G. Simmons: @davidgs
   - Robin Moffat: @rmoff
   - Mary Thengvall @mary_grace
   - Jeremy Meiss: @jeremymeiss
