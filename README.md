@@ -29,6 +29,7 @@ The DevRel Collective (formerly Evangelist Collective aka We Are Developer Evang
 - Ruth Cheesley
 - Nyah Macklin
 - Robin Moffatt
+- David G. Simmons
 
 ### Advisory Board
 - Mary Thengvall
