@@ -79,3 +79,7 @@ Aww shucks, thanks for asking! Check out [our get involved documentation](get-in
 ### Background
 
 Our collective is an inclusive thought experiment started by Dave Josephsen, Florian Motlik, and Mary Thengvall, and is now supported by a group of volunteers including a Board of Directors and an Admin Team. See our [Governance Model](/governance.md) for more information.
+
+## Name and logo usage
+
+We kindly request that the community name and/or logo of the Devrel Collective not be used without our express written permission. The best way to do this in public is to create a [GitHub issue](https://github.com/devrelcollective/brand/issues).
