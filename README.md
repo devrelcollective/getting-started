@@ -13,6 +13,7 @@ The DevRel Collective (formerly Evangelist Collective aka We Are Developer Evang
       * [How Can I Help?](#how-can-i-help)
       * [Background](#background)
       * [Governance Model](/governance.md)
+   * [Name and logo usage](#name-and-logo-usage)
 
 <!-- Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc) -->
 
